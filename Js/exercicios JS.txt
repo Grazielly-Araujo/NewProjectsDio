@@ -1,0 +1,11 @@
+Exercio 1
+
+Variaveis e Operadores.
+
+Exercicio 2
+
+funções 
+
+Exercicio 3
+
+Classes e Métodos
